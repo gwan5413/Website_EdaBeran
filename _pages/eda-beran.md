@@ -22,4 +22,4 @@ post_date: 2018-06-10 15:22:54
 <p class="title-h3" style="text-align: center;"><span style="color: #ffffff;">SPECIAL OFFERS</span></p>
 [/vc_column_text][vc_empty_space height="10px"][vc_column_text]
 <p class="styled-subtitle" style="text-align: center;"><span style="color: #ffffff;">Hooray!~ asdad q3rq qe fqe fqwdf 124 acf as235 232 sdfdaf assdasd asasd as asd</span></p>
-[/vc_column_text][vc_empty_space height="90px"][/vc_column_inner][/vc_row_inner][/gem_fullwidth][/vc_column][/vc_row]
+[/vc_column_text][vc_empty_space height="90px"][/vc_column_inner][/vc_row_inner][/gem_fullwidth][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space height="90px"][/vc_column][/vc_row][vc_row][vc_column][vc_text_separator title_level="h1" title="NEWCOMERS" style="double"][vc_empty_space height="60px"][/vc_column][/vc_row][vc_row][vc_column][recent_products per_page="8" columns="4" orderby="" order=""][/vc_column][/vc_row]
