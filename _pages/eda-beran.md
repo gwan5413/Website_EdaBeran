@@ -26,4 +26,4 @@ post_date: 2018-06-10 15:22:54
 <p class="styled-subtitle" style="text-align: center;"><span style="color: #ffffff;">Awesome Mega Sale -90%</span>
 <span style="color: #ffffff;">Off For All Collection</span>
 <span style="color: #ffffff;">During This Season!</span></p>
-[/vc_column_text][vc_empty_space height="15"][/vc_column_inner][vc_column_inner width="1/3"][vc_empty_space height="15"][gem_button position="center" size="medium" corner="3" icon_pack="elegant" text="SHOW ALL OFFERS" link="url:%23|||" text_color="#ffffff" hover_text_color="#000000" background_color="#000000" hover_background_color="#ffffff"][/vc_column_inner][/vc_row_inner][/gem_textbox][/vc_column][/vc_row]
+[/vc_column_text][vc_empty_space height="15"][/vc_column_inner][vc_column_inner width="1/3" css=".vc_custom_1530450508456{padding-right: 20px !important;}"][vc_empty_space height="15"][gem_button position="center" size="medium" corner="3" icon_pack="elegant" text="SHOW ALL OFFERS" link="url:%23|||" text_color="#ffffff" hover_text_color="#000000" background_color="#000000" hover_background_color="#ffffff"][/vc_column_inner][/vc_row_inner][/gem_textbox][/vc_column][/vc_row]
