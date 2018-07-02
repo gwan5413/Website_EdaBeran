@@ -1,6 +1,6 @@
 ---
 ID: 663
-post_title: My account 1
+post_title: My account
 author: asenclothing
 post_excerpt: ""
 layout: page
