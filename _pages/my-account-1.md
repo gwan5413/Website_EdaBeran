@@ -8,4 +8,4 @@ permalink: https://edaberan.com/my-account-1/
 published: true
 post_date: 2018-07-02 13:07:19
 ---
-[dokan-vendor-registration]
+[vc_row][vc_column][woocommerce_my_account order_count="15"][/vc_column][/vc_row]
