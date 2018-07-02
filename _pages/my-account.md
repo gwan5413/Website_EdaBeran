@@ -8,4 +8,4 @@ permalink: https://edaberan.com/my-account/
 published: true
 post_date: 2018-06-30 21:50:32
 ---
-[dokan-dashboard]
+[vc_row][vc_column][vc_column_text][dokan-dashboard][/vc_column_text][woocommerce_my_account order_count="15"][/vc_column][/vc_row]
