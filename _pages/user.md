@@ -1,6 +1,6 @@
 ---
 ID: 723
-post_title: '#user#'
+post_title: '#profile_name#'
 author: asenclothing
 post_excerpt: ""
 layout: page
