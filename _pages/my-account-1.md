@@ -8,4 +8,4 @@ permalink: https://edaberan.com/my-account-1/
 published: true
 post_date: 2018-07-02 13:07:19
 ---
-[wpuf_profile type="registration" id="null"] [wpuf_profile type="profile" id="null"][wpuf-registration]
+[wpuf-login]
