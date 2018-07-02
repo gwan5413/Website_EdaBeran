@@ -1,6 +1,6 @@
 ---
 ID: 548
-post_title: My Account
+post_title: Dashboard
 author: asenclothing
 post_excerpt: ""
 layout: page
