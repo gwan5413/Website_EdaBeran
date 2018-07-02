@@ -8,4 +8,4 @@ permalink: https://edaberan.com/my-account-1/
 published: true
 post_date: 2018-07-02 13:07:19
 ---
-[wpuf-login]
+[dokan-vendor-registration]
