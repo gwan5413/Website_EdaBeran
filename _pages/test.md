@@ -8,4 +8,3 @@ permalink: https://edaberan.com/test/
 published: true
 post_date: 2018-07-03 20:24:06
 ---
-[my_vc_php_output]
