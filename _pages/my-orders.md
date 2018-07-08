@@ -8,4 +8,4 @@ permalink: https://edaberan.com/my-orders/
 published: true
 post_date: 2018-07-02 18:23:14
 ---
-[dokan-my-orders]
+[vc_row][vc_column][woocommerce_cart][/vc_column][/vc_row]
