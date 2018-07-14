@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-09-04 13:31:04
 ---
-[vc_row][vc_column][gem_fullwidth background_style="cover" background_position_vertical="bottom" background_image="{{SRC_ID_29798}}" padding_top="68" padding_bottom="230"][vc_column_text]
+[vc_row][vc_column][gem_fullwidth background_style="cover" background_position_vertical="bottom" background_image="29798" padding_top="68" padding_bottom="230"][vc_column_text]
 <div class="title-xlarge" style="text-align: center;">
 
 <span style="color: #ffffff; font-size: 158px; line-height: 158px;">Nature</span>
