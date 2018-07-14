@@ -1,0 +1,49 @@
+---
+ID: 6681
+post_title: 'Homepage: Fashion Store (Demo)'
+author: asenclothing
+post_excerpt: ""
+layout: page
+permalink: >
+  https://edaberan.com/home/homepage-fashion-store/
+published: true
+post_date: 2016-02-19 14:29:05
+---
+[vc_row][vc_column][gem_divider margin_top="125"][/vc_column][/vc_row][vc_row css=".vc_custom_1455893199448{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1461054469019{padding-right: 0px !important;padding-left: 0px !important;}"][vc_text_separator title_level="h1" title="new design trends" style="double"][vc_empty_space height="40px"][/vc_column][vc_column offset="vc_hidden-lg vc_hidden-md vc_hidden-sm"][gem_divider margin_top="50"][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
+<div class="styled-subtitle" style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</div>
+[/vc_column_text][vc_empty_space height="40px"][/vc_column][/vc_row][vc_row][vc_column][product_categories orderby="ID" order="" columns="4" number="8" ids="41, 102, 103, 104, 105, 92, 107, 108, 42, 91"][gem_divider margin_top="50"][/vc_column][/vc_row][vc_row][vc_column css=".vc_custom_1461570502185{padding-right: 0px !important;padding-left: 0px !important;}"][gem_fullwidth padding_left="21" padding_right="21"][vc_row_inner][vc_column_inner css=".vc_custom_1461570518516{background-color: #393d50 !important;}" offset="vc_col-lg-4 vc_col-md-4"][gem_icon pack="material" size="medium" centered="1" icon_material="f3c5" color="#ffffff" icon_top_margin="40" icon_bottom_margin="60"][vc_column_text]
+<div class="title-h3" style="text-align: center;"><span style="color: #ffffff;">SEASONS TRENDS</span></div>
+[/vc_column_text][gem_divider margin_top="10"][vc_column_text css=".vc_custom_1461570702084{padding-right: 55px !important;padding-left: 55px !important;}"]
+<div class="styled-subtitle" style="text-align: center;"><span style="color: #ffffff;">Duis sed odio sit amet nibh vulputate cursus a sit amet mauris morbi </span></div>
+[/vc_column_text][gem_divider margin_top="80"][/vc_column_inner][vc_column_inner css=".vc_custom_1461570524584{background-color: #00c3d4 !important;}" offset="vc_col-lg-4 vc_col-md-4"][gem_icon pack="material" size="medium" centered="1" icon_material="f4d7" color="#ffffff" icon_top_margin="40" icon_bottom_margin="60"][vc_column_text]
+<div class="title-h3" style="text-align: center;"><span style="color: #ffffff;">MEGA SALES</span></div>
+[/vc_column_text][gem_divider margin_top="10"][vc_column_text css=".vc_custom_1461570733604{padding-right: 55px !important;padding-left: 55px !important;}"]
+<div class="styled-subtitle" style="text-align: center;"><span style="color: #ffffff;">Duis sed odio sit amet nibh vulputate cursus a sit amet mauris morbi </span></div>
+[/vc_column_text][gem_divider margin_top="80"][/vc_column_inner][vc_column_inner css=".vc_custom_1461570511279{background-color: #fec53d !important;}" offset="vc_col-lg-4 vc_col-md-4"][gem_icon pack="material" size="medium" centered="1" icon_material="f547" color="#ffffff" icon_top_margin="40" icon_bottom_margin="60"][vc_column_text]
+<div class="title-h3" style="text-align: center;"><span style="color: #ffffff;">SPECIAL OFFERS</span></div>
+[/vc_column_text][gem_divider margin_top="10"][vc_column_text css=".vc_custom_1461570740857{padding-right: 55px !important;padding-left: 55px !important;}"]
+<div class="styled-subtitle" style="text-align: center;"><span style="color: #ffffff;">Duis sed odio sit amet nibh vulputate cursus a sit amet mauris morbi </span></div>
+[/vc_column_text][gem_divider margin_top="80"][/vc_column_inner][/vc_row_inner][/gem_fullwidth][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space height="90px"][/vc_column][/vc_row][vc_row css=".vc_custom_1455893199448{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1461054641907{padding-right: 0px !important;padding-left: 0px !important;}"][vc_text_separator title_level="h1" title="newcomers" style="double"][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space height="80px"][recent_products per_page="4" columns="4" orderby="" order=""][gem_divider margin_top="50"][/vc_column][/vc_row][vc_row css=".vc_custom_1455967364587{padding-right: 21px !important;padding-left: 21px !important;}"][vc_column css=".vc_custom_1455963541187{padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;background-color: #fec53d !important;}"][gem_textbox content_background_color="" padding_top="0" padding_bottom="0" border_color="#ffffff" border_width="5"][vc_row_inner][vc_column_inner offset="vc_col-lg-5 vc_col-md-5"][gem_divider margin_top="15"][vc_column_text]
+<p style="text-align: center; font-size: 120px; font-weight: bold; color: #ffffff; font-family: 'Montserrat'; line-height: 120px;">SALE!</p>
+[/vc_column_text][gem_divider margin_top="-5"][/vc_column_inner][vc_column_inner offset="vc_col-lg-4 vc_col-md-4"][gem_divider margin_top="15"][vc_column_text]
+<div class="styled-subtitle" style="text-align: center;"><span style="color: #3b3a4c;">Awesome Total Sale -70%</span>
+<span style="color: #3b3a4c;">Off For All Collection</span>
+<span style="color: #3b3a4c;">During This Season!</span></div>
+[/vc_column_text][/vc_column_inner][vc_column_inner offset="vc_col-lg-3 vc_col-md-3"][gem_divider margin_top="30"][gem_button position="center" corner="0" icon_pack="elegant" text="show sell offers" text_color="#ffffff" background_color="#2c2e3d" hover_text_color="#2c2e3d" hover_background_color="#ffffff"][/vc_column_inner][/vc_row_inner][/gem_textbox][gem_divider margin_top="-23"][/vc_column][/vc_row][vc_row][vc_column][gem_divider margin_top="85"][/vc_column][/vc_row][vc_row css=".vc_custom_1455893199448{margin-bottom: 0px !important;}"][vc_column][vc_text_separator title="news from blog" style="double"][/vc_column][/vc_row][vc_row css=".vc_custom_1455969182412{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1455969045464{margin-bottom: 0px !important;}"][gem_divider margin_top="60"][gem_news style="justified-4x" justified_style="justified-style-2" categories="shop" post_per_page="4" post_pagination="disable"][gem_divider margin_top="-20"][/vc_column][/vc_row][vc_row][vc_column][vc_separator color="custom" style="double" accent_color="#dfe5e8"][gem_divider margin_top="60"][/vc_column][/vc_row][vc_row][vc_column width="1/2"][gem_textbox content_background_color="" rectangle_corner="lt,rt,rb,lb" border_color="#dfe5e8" border_width="1" border_radius="50" padding_left="50" padding_right="25"][gem_icon_with_text icon_pack="material" icon_size="medium" flow="1" float_right="1" icon_material="f25d" icon_color="#3c3950" icon_top_side_padding="4"][vc_column_text]
+<div class="title-h3">we accept</div>
+[/vc_column_text][gem_divider margin_top="25"][vc_column_text]Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+sed do eiusmod tempor incididunt ut labore et
+
+[/vc_column_text][gem_divider margin_top="20"][vc_column_text]<img class="alignleft wp-image-6246 size-full" src="https://edaberan.com/wp-content/uploads/2016/01/money-icon-9.jpg" alt="money-icon-9" width="51" height="32" /><img class="alignleft wp-image-6244 size-full" src="https://edaberan.com/wp-content/uploads/2016/01/money-icon-8.jpg" alt="money-icon-8" width="51" height="32" /><img class="alignleft wp-image-6242 size-full" src="https://edaberan.com/wp-content/uploads/2016/01/money-icon-7.jpg" alt="money-icon-7" width="51" height="32" /><img class="alignleft wp-image-6230 size-full" src="https://edaberan.com/wp-content/uploads/2016/01/money-icon-1.jpg" alt="money-icon-1" width="51" height="32" /><img class="alignleft wp-image-6232 size-full" src="https://edaberan.com/wp-content/uploads/2016/01/money-icon-2.jpg" alt="money-icon-2" width="51" height="32" /><img class="alignleft wp-image-6240 size-full" src="https://edaberan.com/wp-content/uploads/2016/01/money-icon-6.jpg" alt="money-icon-6" width="51" height="32" /><img class="alignleft wp-image-6238 size-full" src="https://edaberan.com/wp-content/uploads/2016/01/money-icon-5.jpg" alt="money-icon-5" width="51" height="32" /><img class="alignleft wp-image-6234 size-full" src="https://edaberan.com/wp-content/uploads/2016/01/money-icon-3.jpg" alt="money-icon-3" width="51" height="32" /><img class="alignleft wp-image-6236 size-full" src="https://edaberan.com/wp-content/uploads/2016/01/money-icon-4.jpg" alt="money-icon-4" width="51" height="32" />[/vc_column_text][/gem_icon_with_text][/gem_textbox][/vc_column][vc_column width="1/2"][gem_textbox content_background_color="" rectangle_corner="lt,rt,rb,lb" padding_left="50" border_color="#dfe5e8" border_width="1" border_radius="50" padding_right="25"][gem_icon_with_text icon_pack="material" icon_size="medium" flow="1" float_right="1" icon_material="f45e" icon_color="#3c3950" icon_top_side_padding="4"][vc_column_text]
+<div class="title-h3">shipping methods</div>
+[/vc_column_text][gem_divider margin_top="25"][gem_list type="checkbox" color="3"]
+<ul>
+ 	<li>Lorem ipsum dolor sit amet, consectetur</li>
+ 	<li>Adipisicing elit, sed do eiusmod tempor</li>
+ 	<li>Incididunt ut labore et dolore magna aliqua</li>
+ 	<li>Enim ad minim veniam, quis nostrud exercitation</li>
+ 	<li>Laboris nisi ut aliquip ex ea commodo</li>
+</ul>
+[/gem_list][gem_divider margin_top="-8"][/gem_icon_with_text][/gem_textbox][/vc_column][/vc_row][vc_row][vc_column][gem_divider margin_top="50"][/vc_column][/vc_row][vc_row css=".vc_custom_1455970678645{margin-bottom: 0px !important;}"][vc_column][gem_fullwidth container="1" background_color="#f4f6f7" padding_top="80" padding_bottom="40"][vc_column_text]
+<div class="title-h3" style="text-align: center;">our brands</div>
+[/vc_column_text][gem_divider margin_top="30"][gem_clients set="dummy" rows="1" cols="6"][gem_divider margin_top="15"][/gem_fullwidth][/vc_column][/vc_row]
